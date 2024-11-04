@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Translation_test Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Translation_test
+  m_TableCollectionNameGuidString: f77d817ea59bbd344be11312d8f80919
+  m_Entries:
+  - m_Id: 170373947392
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641820779618304
+    m_Key: options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652839685988352
+    m_Key: ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653248659988480
+    m_Key: controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1275521125326848
+    m_Key: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1276495323734016
+    m_Key: graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278203776999424
+    m_Key: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278511148179456
+    m_Key: resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1321197863444480
+    m_Key: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322850377277440
+    m_Key: main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1326006716866560
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6340315696078848
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9953375593701376
+    m_Key: 'movement
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9956208409845760
+    m_Key: cast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164332593650077696
+    m_Key: resolutions
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8912180763250393112
+  references:
+    version: 2
+    RefIds:
+    - rid: 8912180763250393112
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691539828839

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Translation_test_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: f77d817ea59bbd344be11312d8f80919, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 170373947392
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641820779618304
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652839685988352
+    m_Localized: Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653248659988480
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1275521125326848
+    m_Localized: Volumen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1276495323734016
+    m_Localized: "Gr\xE1ficos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278203776999424
+    m_Localized: Pantalla completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278511148179456
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1321197863444480
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322850377277440
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1326006716866560
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6340315696078848
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9953375593701376
+    m_Localized: Movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9956208409845760
+    m_Localized: Activar la habilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164332593650077696
+    m_Localized: Resoluciones
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

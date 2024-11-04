@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Translation_test_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f77d817ea59bbd344be11312d8f80919, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 170373947392
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1039282741248
+    m_Localized: At the moment this game requires two players to be played, It can
+      be played either with a keyboard and controller or with two controllers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641820779618304
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652839685988352
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653248659988480
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653987759267840
+    m_Localized: 'Player 1
+
+      Press START to join'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654732558606336
+    m_Localized: 'Player 2
+
+      Press START to join'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1275521125326848
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1276495323734016
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278203776999424
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1278511148179456
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1321197863444480
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1322850377277440
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1326006716866560
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6340315696078848
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9953375593701376
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9956208409845760
+    m_Localized: Cast the skill
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
